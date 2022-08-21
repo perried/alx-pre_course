@@ -1,2 +1,2 @@
 
-Just created directory
+just updating my second readme file
